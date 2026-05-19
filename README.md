@@ -44,7 +44,8 @@ s.close()
 ~~~
 ## OUPUT
 
-<img width="1600" height="320" alt="image" src="https://github.com/user-attachments/assets/5447e087-b186-42a7-9d24-9f1863f444c3" />
+<img width="1722" height="380" alt="Screenshot 2026-05-19 082903" src="https://github.com/user-attachments/assets/b868a111-0fff-4b7b-942f-1ecc4a7a125a" />
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
